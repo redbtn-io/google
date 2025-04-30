@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "google-auth-library": "^9.15.1",
+    "googleapis": "^148.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3"
+  }
+}
